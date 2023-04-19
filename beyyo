@@ -94,7 +94,7 @@ end
 
 
 local FarmTab = Window:MakeTab({
-	Name = "main",
+	Name = "Main",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
@@ -131,7 +131,7 @@ FarmTab:AddToggle({
 
 
 local FarmTab = Window:MakeTab({
-	Name = "main 2",
+	Name = "Shop",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
