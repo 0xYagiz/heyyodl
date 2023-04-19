@@ -1,6 +1,6 @@
 if game.PlaceId == 3956818381 then
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "0xYzHub| ", HidePremium = false, IntroText = "0xYzHub", SaveConfig = true, ConfigFolder = "TutorialConfig"})
+local Window = OrionLib:MakeWindow({Name = "0xYzHub| ⚡Ninja Legends", HidePremium = false, IntroText = "0xYzHub", SaveConfig = true, ConfigFolder = "TutorialConfig"})
 
 
 --Values
